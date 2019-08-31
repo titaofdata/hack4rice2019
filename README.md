@@ -16,4 +16,4 @@ Authors:
 
 Alec Manabat - Developer (Analog Devices, Cavite)
 
-Shanelle Recheta - Data Science Consultant (FTW Foundation) 
+Shanelle Recheta - Data Science Consultant (FTW Foundation | Cropital) 
